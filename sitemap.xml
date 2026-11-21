@@ -7,4 +7,16 @@
     <image:image><image:loc>https://alexdufort.com/images/alex.jpg</image:loc></image:image>
     <image:image><image:loc>https://alexdufort.com/images/alex-dufort-speaking-traverse-26-hamburg.jpg</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://alexdufort.com/earned-media/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://alexdufort.com/affiliate-partnerships/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://alexdufort.com/strategic-partnerships/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
 </urlset>
